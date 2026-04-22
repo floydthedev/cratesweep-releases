@@ -1,2 +1,2 @@
 # cratesweep-releases
-CrateSweep application public releases.
+Public release artifacts for CrateSweep. Source is private.
