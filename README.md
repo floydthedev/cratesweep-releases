@@ -12,7 +12,7 @@ The stable link above always points at the newest release, so it's safe to bookm
 
 ## Release notes
 
-Each release includes user-facing notes — new features, improvements, and fixes written for DJs, not developers. The same notes power the "What's new" section on the [download page](https://cratesweep.com/download).
+Each release includes user-facing release notes — new features, improvements, and fixes.
 
 ## Support
 
